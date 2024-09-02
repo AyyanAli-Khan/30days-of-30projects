@@ -52,7 +52,7 @@ Ensure you have **Node.js** and **npm** installed on your machine.
 1. **Clone the repository**:
 
    ```bash
-  [(https://github.com/AyyanAli-Khan/30days-of-30projects).git](https://github.com/AyyanAli-Khan/30days-of-30projects)
+  git clone https://github.com/AyyanAli-Khan/30days-of-30projects/edit/main/day-1/README.md
    cd day-1
    ```
 
