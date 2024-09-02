@@ -52,8 +52,8 @@ Ensure you have **Node.js** and **npm** installed on your machine.
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/simple-counter-nextjs.git
-   cd simple-counter-nextjs
+  [(https://github.com/AyyanAli-Khan/30days-of-30projects).git](https://github.com/AyyanAli-Khan/30days-of-30projects)
+   cd day-1
    ```
 
 2. **Install dependencies**:
